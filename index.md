@@ -13,7 +13,8 @@ library(tidyverse)
 
 metadata <- read_csv("data/metadata.csv")
 
-file_names = metadata$FileName
+metadata
+
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
